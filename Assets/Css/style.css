@@ -1,0 +1,25 @@
+body {
+    background-image: url('../Images/backgroundimage1.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+}
+
+#begin{
+    
+}
+
+#randomTotal{
+
+}
+
+#wins{
+    text-align: center
+}
+
+#losses{
+    text-align: center
+}
